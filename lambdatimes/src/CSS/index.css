@@ -120,7 +120,7 @@ body {
 .top-bar .container .container-right span {
   cursor: pointer;
 } */
-.header {
+/* .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -136,8 +136,8 @@ body {
   .header {
     width: 1280px;
   }
-}
-.header h1 {
+} */
+/* .header h1 {
   font-size: 60px;
   font-family: Didot, serif;
   font-weight: bold;
@@ -159,8 +159,8 @@ body {
   text-align: right;
   margin-right: 25px;
   flex: 1;
-}
-.content-container {
+} */
+/* .content-container {
   display: flex; 
   flex-direction: column; 
   align-items: center;
@@ -190,7 +190,7 @@ body {
   font-size: 12px;
   letter-spacing: 1px;
   font-weight: bold;
-}
+} */
 .tabs .topics .tab {
   display: flex;
   justify-content: none;
